@@ -1,8 +1,6 @@
 ---
 ---
 
-  
-
 # My background 
 I am from China, and I love chinese food.
 
@@ -10,6 +8,7 @@ This site is mainly for connecting my friends and family. I hope you enjoy it an
 
 Thank you!
 
-# My work
+# My work 
+我们 的 公司
 
 # My life
