@@ -1,0 +1,10 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Home"
+  left:
+    - text: "About"
+      href: "about.html"
+output:
+  html_document:
+    theme: paper
