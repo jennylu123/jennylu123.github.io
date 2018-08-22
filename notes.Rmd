@@ -1,0 +1,18 @@
+---
+title: "笔记"
+---
+
+### 安装
+- chocolatey
+- install from chocolatey: R, Rstudio, git
+- setup Rstuio: ssh, mirror
+- setup github account
+   new repository -> clone to local
+
+
+### 如何编辑和上传
+* **save -> build -> commit -> push**
+* use build website to see prettydoc (knit not working)
+https://cran.r-project.org/web/packages/prettydoc/vignettes/tactile.html
+
+### 如何 。。。    

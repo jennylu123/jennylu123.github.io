@@ -1,14 +1,33 @@
 ---
+author: Y.J.L.
+date: July 31, 2018
+output:
+  prettydoc::html_pretty:
+    theme: caymen
+    highlight: github
 ---
 
-# My background 
-I am from China, and I love chinese food.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
 
-This site is mainly for connecting my friends and family. I hope you enjoy it and visit often.
+### 这是我的网页
+欢迎访问
 
-Thank you!
+``` {r, echo=FALSE, out.width="20%"}
 
-# My work 
-我们 的 公司
+knitr::include_graphics('./img/timg.jpg')
 
-# My life
+```
+
+### sadsfasd asdf
+* row 1
+    + row a
+* row 2
+    + row b
+
+``` {r, echo=FALSE}
+
+summary(cars)
+```
+ 

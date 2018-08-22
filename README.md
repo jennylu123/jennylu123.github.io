@@ -3,16 +3,10 @@ title: "README.md"
 output: html_document
 ---
 
-# test 1
-### set a
-### set b
+github
 
-# test 2
+|  (push)
+|
 
-# this is the new line 
-
-# Add another line
-# Rmarkdown  ... html , css, 
-
-# merge table :   cbind(a,b)
-# 
+local :  
+-- folder : 
